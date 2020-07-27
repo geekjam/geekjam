@@ -15,7 +15,7 @@
 <code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 
-![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=geekjam&show_icons=true&line_height=30)
+![GeekJam's github stats](https://github-readme-stats.vercel.app/api?username=geekjam&show_icons=true&line_height=30)
 
 🌱 Learning all about **Open Source**
 
