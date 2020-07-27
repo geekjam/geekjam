@@ -1,6 +1,6 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 
-### I'm GeekJam 👨‍💻
+###  👨‍💻 I'm GeekJam
 
 [![Twitter](https://aleen42.github.io/badges/src/twitter.svg)](https://twitter.com/blackjam)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/#/)](https://www.linkedin.com/in/#/)
