@@ -1,6 +1,6 @@
 ### GeekJam 👨‍💻
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/blackjam1024)](https://twitter.com/blackjam)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=blue&link=https://twitter.com/blackjam1024)](https://twitter.com/blackjam)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/#/)](https://www.linkedin.com/in/#/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/)](https://stackoverflow.com/)
 [![Steam](https://aleen42.github.io/badges/src/steam.svg)](https://steamcommunity.com/id/geekjam)
