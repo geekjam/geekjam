@@ -3,7 +3,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/blackjam1024)](https://twitter.com/blackjam)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/#/)](https://www.linkedin.com/in/#/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/)](https://stackoverflow.com/)
-[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/)
+[![Steam](https://aleen42.github.io/badges/src/steam.svg)](https://steamcommunity.com/id/geekjam)
 [![GitHub followers](https://img.shields.io/github/followers/geekjam.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/geekjam?tab=followers)
 
 **💼 Currently working as:** Software Engineering Intern at <a href="http://www.yituike.com/" target="_blank"><b>YTK</b></a>
