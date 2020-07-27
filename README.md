@@ -19,4 +19,4 @@
 
 🌱 Learning all about **Open Source**
 
-⭐️ From [EngincanV](https://github.com/geekjam)
+⭐️ From [GeekJam](https://github.com/geekjam)
